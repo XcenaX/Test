@@ -16,3 +16,18 @@ Proportunity
 <img width="200" height="402" alt="3" src="https://github.com/user-attachments/assets/df7cbad4-36cb-4a49-b255-123dfd3390e9" />
 <img width="201" height="403" alt="2" src="https://github.com/user-attachments/assets/278a694d-2051-4901-a804-ff2d4e9e2807" />
 <img width="200" height="401" alt="1" src="https://github.com/user-attachments/assets/d94bce7a-324c-4059-9110-55757612dfea" />
+
+Almazmed
+<img width="742" height="449" alt="6" src="https://github.com/user-attachments/assets/351db56c-b336-4435-a4e3-5f65560a3679" />
+<img width="755" height="449" alt="5" src="https://github.com/user-attachments/assets/572de4ca-edec-4467-b09b-b64bd17903aa" />
+<img width="754" height="448" alt="4" src="https://github.com/user-attachments/assets/80badb07-9157-47b6-934c-c8a9ef999deb" />
+<img width="763" height="448" alt="3" src="https://github.com/user-attachments/assets/cb47ccdb-6b2c-453a-b5c2-4fb3df1c97dc" />
+<img width="730" height="447" alt="2" src="https://github.com/user-attachments/assets/5fb282a9-b606-4954-a6a0-5e046b6f9df3" />
+<img width="758" height="448" alt="1" src="https://github.com/user-attachments/assets/41f9b175-36c4-4b57-88b7-ea5e246ae183" />
+
+Камбоджия
+<img width="744" height="449" alt="5" src="https://github.com/user-attachments/assets/1fddd4cf-6d3f-40f3-98b4-b34391d65cba" />
+<img width="744" height="397" alt="4" src="https://github.com/user-attachments/assets/4f9b706e-4141-442e-968f-4aa55c605668" />
+<img width="846" height="447" alt="3" src="https://github.com/user-attachments/assets/b5878a53-6478-4283-9c44-77d7dfe0c654" />
+<img width="847" height="448" alt="2" src="https://github.com/user-attachments/assets/98e47c08-61ff-4008-a204-ead553375147" />
+<img width="846" height="447" alt="1" src="https://github.com/user-attachments/assets/e3b7b996-9c5b-4108-9a9f-97d3664ebaba" />
