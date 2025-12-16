@@ -5,17 +5,14 @@
 ![image_original-3-1](https://github.com/user-attachments/assets/e6f17b95-71f5-4abb-a29b-427fcdb8082e)
 ![image_original-4-1](https://github.com/user-attachments/assets/9462f31c-d015-4fd6-812f-9d43cf7e9ec9)
 
-damubala
-<img width="1691" height="892" alt="image_original" src="https://github.com/user-attachments/assets/c71e42ab-273e-4085-a716-59949f9a883b" />
-<img width="1691" height="892" alt="image_original" src="https://github.com/user-attachments/assets/0935cc13-7b38-4a0e-b267-fdf0906d5f3d" />
-
-
-smart astana
-<img width="1692" height="892" alt="image_original" src="https://github.com/user-attachments/assets/9df54530-acfb-4981-8ec8-afa914c2a9be" />
-<img width="1694" height="892" alt="image_original" src="https://github.com/user-attachments/assets/adaf9c19-3ead-4f9c-a7f0-1f4c65802e20" />
-<img width="1694" height="896" alt="image_original" src="https://github.com/user-attachments/assets/1312bd1f-733c-41d2-bf3d-928ae2e53556" />
-
 Champion
 <img width="469" height="602" alt="image_original" src="https://github.com/user-attachments/assets/66f0ea3d-af7f-4dbf-b655-72c1b09b6e0b" />
 <img width="682" height="613" alt="image_original" src="https://github.com/user-attachments/assets/a997f0bf-d220-4b24-86e9-236a36decdf4" />
 <img width="595" height="574" alt="image_original" src="https://github.com/user-attachments/assets/4cae8c53-b1f8-446e-8e86-4581519aeb82" />
+
+Proportunity
+<img width="200" height="401" alt="5" src="https://github.com/user-attachments/assets/4d2e67ba-3c79-4388-afb9-ac1fd8feb22e" />
+<img width="200" height="401" alt="4" src="https://github.com/user-attachments/assets/33e4ae30-6511-4aec-b973-0fee9597deca" />
+<img width="200" height="402" alt="3" src="https://github.com/user-attachments/assets/df7cbad4-36cb-4a49-b255-123dfd3390e9" />
+<img width="201" height="403" alt="2" src="https://github.com/user-attachments/assets/278a694d-2051-4901-a804-ff2d4e9e2807" />
+<img width="200" height="401" alt="1" src="https://github.com/user-attachments/assets/d94bce7a-324c-4059-9110-55757612dfea" />
