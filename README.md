@@ -31,3 +31,11 @@ Almazmed
 <img width="846" height="447" alt="3" src="https://github.com/user-attachments/assets/b5878a53-6478-4283-9c44-77d7dfe0c654" />
 <img width="847" height="448" alt="2" src="https://github.com/user-attachments/assets/98e47c08-61ff-4008-a204-ead553375147" />
 <img width="846" height="447" alt="1" src="https://github.com/user-attachments/assets/e3b7b996-9c5b-4108-9a9f-97d3664ebaba" />
+
+Oceanswave
+![6](https://github.com/user-attachments/assets/a38dd45e-fcb3-4355-8235-70f7b7c220d7)
+![5](https://github.com/user-attachments/assets/4688abb8-1d5d-4bd4-984c-5cb7d1393395)
+![4](https://github.com/user-attachments/assets/b207c8e8-80f6-4e9f-97c0-099cb76dd748)
+![3](https://github.com/user-attachments/assets/6b79364a-6e5f-4d53-a64a-458fe7c205e8)
+![2](https://github.com/user-attachments/assets/2b65d91a-b0c2-4c47-ba42-2b9eb64f0ee3)
+![1](https://github.com/user-attachments/assets/63dd2e04-0be1-4407-93a6-695d0e08b810)
